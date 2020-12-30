@@ -1,4 +1,2 @@
-# Blood-Bank-Management-System
-it's  blood bank management system project using asp.net It is online blood bank management system. It helps for patient or hospital to search for blood in particular area and this app will give information about donor.  It is interface between donor and patient. This application built by asp.net, c# and sql server. with c#.  
-
-
+# COVID-19 Vaccine Trails Made Easy
+‘COVID-19 Vaccine Trails Made Easy’ is an interface between the government and people. It manages the details about the volunteers – Name, Blood Group, Medical Reports, Address, Contact, and a Letter of Confirmation. The application is controlled and accessible by Admin who will ensure the data correction and error free information.
